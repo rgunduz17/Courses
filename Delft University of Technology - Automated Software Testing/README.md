@@ -5,6 +5,7 @@
 ![Delft University of Technology](http://i.imgur.com/Qktqnu1.png) INSTRUCTORS
 #### Instructors: Arie van Deursen and Maurício Aniche
 
+
 ## What you'll learn
 - The key ideas behind advanced software testing techniques, such as mutation and property-based testing
 - The current state-of-the-art in software testing research, such as the usage of artificial intelligence to automate testing activities
